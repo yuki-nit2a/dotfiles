@@ -1,0 +1,27 @@
+[submodule "bash.file"]
+	path = bash.file
+    url  = https://github.com/yuki-nit2a/bash.file.git
+
+[submodule "curl.file"]
+    path = curl.file
+    url  = https://github.com/yuki-nit2a/curl.file.git
+
+[submodule "git.file"]
+	path = git.file
+	url  = https://github.com/yuki-nit2a/git.file.git
+
+[submodule "screen.file"]
+	path = screen.file
+	url  = https://github.com/yuki-nit2a/screen.file.git
+
+[submodule "vim.file"]
+	path = vim.file
+	url  = https://github.com/yuki-nit2a/vim.file.git
+
+[submodule "wget.file"]
+	path = wget.file
+	url  = https://github.com/yuki-nit2a/wget.file.git
+
+[submodule "zsh.file"]
+	path = zsh.file
+    url  = https://github.com/yuki-nit2a/zsh.file.git
