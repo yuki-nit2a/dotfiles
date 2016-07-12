@@ -25,3 +25,7 @@
 [submodule "zsh.file"]
 	path = zsh.file
     url  = https://github.com/yuki-nit2a/zsh.file.git
+
+[submodule "posix.file"]
+	path = posix.file
+	url  = https://github.com/yuki-nit2a/posix.file.git
