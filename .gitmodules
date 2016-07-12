@@ -10,9 +10,25 @@
 	path = git.file
 	url  = https://github.com/yuki-nit2a/git.file.git
 
+[submodule "posix.file"]
+	path = posix.file
+	url  = https://github.com/yuki-nit2a/posix.file.git
+
 [submodule "screen.file"]
 	path = screen.file
 	url  = https://github.com/yuki-nit2a/screen.file.git
+
+[submodule "ssh.file"]
+	path = ssh.file
+	url  = https://github.com/yuki-nit2a/ssh.file.git
+
+[submodule "tmux.file"]
+	path = tmux.file
+	url  = https://github.com/yuki-nit2a/tmux.file.git
+
+[submodule "tmuxinator.file"]
+	path = tmuxinator.file
+	url  = https://github.com/yuki-nit2a/vim.tmuxinator.git
 
 [submodule "vim.file"]
 	path = vim.file
@@ -25,7 +41,3 @@
 [submodule "zsh.file"]
 	path = zsh.file
     url  = https://github.com/yuki-nit2a/zsh.file.git
-
-[submodule "posix.file"]
-	path = posix.file
-	url  = https://github.com/yuki-nit2a/posix.file.git
