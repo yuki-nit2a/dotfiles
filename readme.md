@@ -1,6 +1,8 @@
 # dotfiles
 WIP till 22nd century.
 
+![DOTFILES](https://raw.githubusercontent.com/yuki-nit2a/dotfiles/master/readme/logo.gif)
+
 ## Install
 This project behave only as install-script-caller of indivisual submodules are the real dotfiles.
 
